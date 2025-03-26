@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0bec73d11f8badff53e3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LCG_model_color",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LCG_model_color::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LCG_model_color-Debug-919a6501d35633b6a45c.json",
+					"name" : "LCG_model_color",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LCG_model_color_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LCG_model_color_autogen-Debug-d78186bf8b1b405a97be.json",
+					"name" : "LCG_model_color_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LCG_model_color_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LCG_model_color_autogen_timestamp_deps-Debug-89888b90dfb727ed5f9e.json",
+					"name" : "LCG_model_color_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/aprogramm/C++/LCG_model_color/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug",
+		"source" : "C:/aprogramm/C++/LCG_model_color"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

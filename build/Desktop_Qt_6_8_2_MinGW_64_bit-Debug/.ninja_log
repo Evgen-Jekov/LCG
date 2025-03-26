@@ -1,0 +1,10 @@
+# ninja log v6
+11	153	7647074795662120	LCG_model_color_autogen/timestamp	4f209dfdd52d7982
+11	153	7647074795662120	C:/aprogramm/C++/LCG_model_color/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/LCG_model_color_autogen/timestamp	4f209dfdd52d7982
+663	761	7647037560634181	CMakeFiles/LCG_model_color.dir/LCG.cpp.obj	16f1d643e349984d
+154	1939	7647074797089650	CMakeFiles/LCG_model_color.dir/main.cpp.obj	1b791bb8c9f5faf1
+11	153	7647074795662120	LCG_model_color_autogen/mocs_compilation.cpp	4f209dfdd52d7982
+178	245	7647071949486763	CMakeFiles/LCG_model_color.dir/LCG_model_color_autogen/mocs_compilation.cpp.obj	bc7a525a6020c62f
+11	153	7647074795662120	C:/aprogramm/C++/LCG_model_color/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/LCG_model_color_autogen/mocs_compilation.cpp	4f209dfdd52d7982
+201	2148	7647057972650167	CMakeFiles/LCG_model_color.dir/mainwindow.cpp.obj	b3a4470c79ef1c2f
+1939	2098	7647074814938968	LCG_model_color.exe	8bf85410ef7b201a

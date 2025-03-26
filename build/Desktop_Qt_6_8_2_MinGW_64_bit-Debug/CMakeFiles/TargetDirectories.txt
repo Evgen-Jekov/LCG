@@ -1,0 +1,9 @@
+C:/aprogramm/C++/LCG_model_color/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/LCG_model_color.dir
+C:/aprogramm/C++/LCG_model_color/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/aprogramm/C++/LCG_model_color/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/aprogramm/C++/LCG_model_color/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/aprogramm/C++/LCG_model_color/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/aprogramm/C++/LCG_model_color/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/aprogramm/C++/LCG_model_color/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/aprogramm/C++/LCG_model_color/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/LCG_model_color_autogen_timestamp_deps.dir
+C:/aprogramm/C++/LCG_model_color/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/LCG_model_color_autogen.dir
